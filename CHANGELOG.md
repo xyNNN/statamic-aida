@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/21stdigital/statamic-aida/compare/2.1.0...2.1.1) (2025-07-02)
+
+
+### Bug Fixes
+
+* race condition in multisite ([#46](https://github.com/21stdigital/statamic-aida/issues/46)) ([3fd5923](https://github.com/21stdigital/statamic-aida/commit/3fd59238df30122378714452ae20e438fbc468ae))
+
 ## [2.1.0](https://github.com/21stdigital/statamic-aida/compare/2.0.0...2.1.0) (2024-08-13)
 
 
